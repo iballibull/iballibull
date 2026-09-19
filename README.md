@@ -21,7 +21,8 @@
 
 ###
 
-<p align="left">I'm Muchamad Iqbal Yusuf from Indonesia<br><br>- 📚 I'm currently learning Laravel, ExpressJS and React JS to become a Full-Stack Developer<br>- ⚡ In my free time, I like to explore new knowledge... and sometimes just sleep 😴</p>
+<p align="left">I'm Muchamad Iqbal Yusuf from Indonesia<br><br>- 💼 I'm currently working as a Backend Developer, mainly using Node.js, Express.js, and MySQL.
+<br>- 📚 I'm currently exploring TypeScript, NestJS, and Web3 development with Solidity and Foundry.</p>
 
 ###
 
